@@ -11,7 +11,7 @@
   cols: 2
   sponsors:
   - name : echo
-    url  : пше https://www.echo.ai/
+    url  : https://www.echo.ai/
     image: echo.png
 - tier: gold
   description: "Companies supporting the conference at a strong premium level, gaining high visibility and meaningful engagement opportunities with attendees."
